@@ -1,0 +1,5 @@
+node_modules/
+*.csv
+acutive_backup_*.json
+.env
+.env.*
